@@ -1,13 +1,15 @@
 # TylerTechnologyExam
 Interview Support Engineer Exam 
 
-# To run this application, you first need to clone this repo:
+# To run this application, you first need to clone this repo to your IDE:
 https://github.com/billcod3r/TylerTechnologyExam.git
 
-# Then install dependencies:
+# Open the project
+
+# Then install dependencies by Opening your terminal and running the following command:
 npm install
 
-# Enter into okta-hosted-login directory:
+# Enter into okta-hosted-login directory using:
 cd samples-js-react/okta-hosted-login
 
 # In the terminal enter the following Command:
